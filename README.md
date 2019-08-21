@@ -1,4 +1,7 @@
 # SEGGER emWin Middleware Library
+
+This repository is deprecated. The middleware library is now available here: https://github.com/cypresssemiconductorco/emwin
+
 ### Overview
 emWin is an embedded graphic library and graphical user interface (GUI) framework designed to provide an efficient, processor- and display controller-independent GUI for any application that operates with a graphical display. It is compatible with single-task and multitask environments. Developed by SEGGER Microcontroller, emWin is extremely popular in the embedded industry. Cypress has licensed the emWin library from SEGGER and offers it for free to customers.
 
